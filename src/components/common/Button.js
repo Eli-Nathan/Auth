@@ -25,10 +25,10 @@ const styles = {
     alignSelf: 'center',
     color: '#fff',
     fontSize: 16,
-    fontWeight: '600',
+    fontWeight: '800',
     paddingTop: 10,
     paddingBottom: 10
   }
 };
 
-export default Button;
+export { Button };
